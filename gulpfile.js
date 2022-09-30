@@ -4,7 +4,7 @@ const ftp = require('gulp-ftp')
 const pkg = require('./package.json')
 
 const config = {
-  host: 'static.ftp.zhuaninc.com',
+  host: 'static.ftp.xxxx.com',
   port: 21,
   user: 'xxx',
   pass: 'xxxx',
